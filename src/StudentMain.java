@@ -6,5 +6,13 @@ public class StudentMain {
         Student<String,String> s3 = new Student<>();
         Integer rollNo = s2.getRollNo();
         String rollNo1 = s3.getRollNo();
+
+
+
+        Student obj = new Student();
+        int number1 = 1;
+
+
+
     }
 }
